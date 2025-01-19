@@ -1,0 +1,146 @@
+{
+  "tracks": [
+  ],
+  "albums": [
+    {
+      "artist": "Cast of Mamma Mia! The Movie",
+      "album": "Mamma Mia! The Movie Soundtrack",
+      "uri": "spotify:album:6QtnCAFmqOwR75jOOmU7k9"
+    },
+    {
+      "artist": "Lin-Manuel Miranda",
+      "album": "Hamilton",
+      "uri": "spotify:album:1kCHru7uhxBUdzkm4gzRQc"
+    },
+    {
+      "artist": "The Backseat Lovers",
+      "album": "When We Were Friends",
+      "uri": "spotify:album:3TSMSh5dai7WEnEGOoMXBZ"
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "album": "SOUR",
+      "uri": "spotify:album:6s84u2TUpR3wdUv4NgKA2j"
+    },
+    {
+      "artist": "The Backseat Lovers",
+      "album": "Waiting to Spill",
+      "uri": "spotify:album:2Gb2plO2TkNRIgoCuJGm7C"
+    },
+    {
+      "artist": "Ashe",
+      "album": "Ashlyn",
+      "uri": "spotify:album:5eCmZVM5Kspu2B1cyVdSqq"
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "album": "vampire",
+      "uri": "spotify:album:5kqfR7EuGbyp8x27Pr1kY9"
+    }
+  ],
+  "shows": [
+    {
+      "name": "Altered States",
+      "publisher": "PRX",
+      "uri": "spotify:show:6kDLJQOSjzmmKhNygwxvRz"
+    }
+  ],
+  "episodes": [
+  ],
+  "bannedTracks": [
+  ],
+  "artists": [
+    {
+      "name": "Arctic Monkeys",
+      "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+    },
+    {
+      "name": "Beach House",
+      "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY"
+    },
+    {
+      "name": "Cage The Elephant",
+      "uri": "spotify:artist:26T3LtbuGT1Fu9m0eRq5X3"
+    },
+    {
+      "name": "Clairo",
+      "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
+    },
+    {
+      "name": "Frank Ocean",
+      "uri": "spotify:artist:2h93pZq0e7k5yf4dywlkpM"
+    },
+    {
+      "name": "Kendrick Lamar",
+      "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+    },
+    {
+      "name": "Lana Del Rey",
+      "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa"
+    },
+    {
+      "name": "Loraxx",
+      "uri": "spotify:artist:7JJsPOQompu3hCBhItaHKK"
+    },
+    {
+      "name": "MAVI",
+      "uri": "spotify:artist:1peoXq0RPx7czVoFjloeDQ"
+    },
+    {
+      "name": "Omar Apollo",
+      "uri": "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+    },
+    {
+      "name": "Peach Pit",
+      "uri": "spotify:artist:6fC2AcsQtd9h4BWELbbire"
+    },
+    {
+      "name": "Steve Lacy",
+      "uri": "spotify:artist:57vWImR43h4CaDao012Ofp"
+    },
+    {
+      "name": "Taylor Swift",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    },
+    {
+      "name": "The Backseat Lovers",
+      "uri": "spotify:artist:6p2HnfM955TI1bX34dkLnI"
+    },
+    {
+      "name": "The Buttertones",
+      "uri": "spotify:artist:1CMml5seBEaxQzlmaGxMPx"
+    },
+    {
+      "name": "The Last Shadow Puppets",
+      "uri": "spotify:artist:2Z7UcsdweVlRbAk5wH5fsf"
+    },
+    {
+      "name": "The Rare Occasions",
+      "uri": "spotify:artist:1QfpRUtH14JLoY6F6AYmwt"
+    },
+    {
+      "name": "The Smiths",
+      "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8"
+    },
+    {
+      "name": "The Strokes",
+      "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+    },
+    {
+      "name": "Tyler, The Creator",
+      "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+    },
+    {
+      "name": "Vacations",
+      "uri": "spotify:artist:0U7iI0Dk4Ojvi17nZboNO4"
+    },
+    {
+      "name": "grentperez",
+      "uri": "spotify:artist:73BLwSX6gsNeVzS7DgI4xe"
+    }
+  ],
+  "bannedArtists": [
+  ],
+  "other": [
+  ]
+}
