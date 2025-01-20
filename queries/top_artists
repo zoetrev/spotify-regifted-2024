@@ -1,0 +1,27 @@
+CREATE TABLE json_data (id INT IDENTITY PRIMARY KEY, json_content NVARCHAR(MAX));
+
+BULK INSERT json_data
+FROM 'C:spotify_account_data/StreamingHistory_music_0.json'
+WITH (SINGLE_BLOB, CODEPAGE = '65001');
+
+BULK INSERT json_data
+FROM 'C:spotify_account_data/StreamingHistory_music_1.json'
+WITH (SINGLE_BLOB, CODEPAGE = '65001');
+
+BULK INSERT json_data
+FROM 'C:spotify_account_data/StreamingHistory_music_2.json'
+WITH (SINGLE_BLOB, CODEPAGE = '65001');
+
+SELECT
+    artistName,
+    COUNT(*) AS PlayCount
+FROM JsonData
+CROSS APPLY OPENJSON(JsonContent)
+WITH (
+    endTime NVARCHAR(50),
+    artistName NVARCHAR(255),
+    trackName NVARCHAR(255),
+    msPlayed INT
+) AS parsedJson
+GROUP BY artistName
+ORDER BY PlayCount DESC
